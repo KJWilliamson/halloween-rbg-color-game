@@ -1,6 +1,7 @@
-### halloween-rbg-color-game
-
-## Guess what the RGB color is from the colors displayed
+# Halloween RGB color game
+* Guess what the RGB color is from the squares displayed
+* Easy mode is 3 squares
+* Hard mode is 6 squares
 
 ### Need to add javascript and figure out functionality.
 
