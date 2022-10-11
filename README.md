@@ -1,4 +1,4 @@
-# Halloween RGB color game
+# Halloween RGB color game built using HTML, CSS, and Javascript
 * Guess what the RGB color is from the squares displayed
 * Easy mode is 3 squares
 * Hard mode is 6 squares
